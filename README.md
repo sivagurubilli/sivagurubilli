@@ -9,13 +9,12 @@
 - 👨‍💻 All of my projects are available at https://github.com/sivagurubilli
 - 📫 How to reach me gurubillisiva22@gmail.com
 
-### Connect with me on linkedin :
-<a href="https://www.linkedin.com/in/sivagurubilli/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" height="40" /></a>
+### Connect with me on linkedin :           <a href="https://www.linkedin.com/in/sivagurubilli/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" height="40" /></a>
 
 ### Languages and Tools:
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*l4xICbIIYlz1OTymWCoUTw.jpeg" 
                                            height="100" /></a>      <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" height="70" /></a>             <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" height="40" /></a>       <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" height="50" /></a>
-                                           <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height="80" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.techcret.com/images/resource/javascript-es6.png" height="80" /></a>
+                                           <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/430-4309307_react-js-transparent-logo-hd-png-download.png" height="120" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://frontendjournal.com/wp-content/uploads/2020/09/Javascript-ES6-788x443.jpg" height="80" /></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivagurubilli)](https://github.com/anuraghazra/github-readme-stats)
