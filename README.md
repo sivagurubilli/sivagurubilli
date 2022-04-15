@@ -6,13 +6,18 @@
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" height="100" /></a>
 
-- 👨‍💻 All of my projects are available at https://github.com/gurubillisiva
+- 👨‍💻 All of my projects are available at https://github.com/sivagurubilli
 - 📫 How to reach me gurubillisiva22@gmail.com
 
 ### Connect with me on linkedin :
 <a href="https://www.linkedin.com/in/sivagurubilli/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" height="40" /></a>
 
 ### Languages and Tools:
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*l4xICbIIYlz1OTymWCoUTw.jpeg" 
+                                           height="100" /></a>      <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" height="100" /></a>             <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>       <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+                                           <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+
+
 
 
 
