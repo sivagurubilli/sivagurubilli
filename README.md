@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @sivagurubilli
+# 👋 Hi, I’m sivagurubilli
 ### 👀 I’m interested in fullstack software development
-### 🌱 I’m currently learning mern stack and kubernetes
+### 🌱 I’m currently learning mern stack, next.js and kubernetes
 
 ####  good problem solver and fullstack developer looking for opportunity work  with challenging environment to gain and learn knowledge.  Would like to explore technological implementations to find solutions to a lot of problems. Aim to leave a mark on my work at every level of my career. my free time lways contributing reading tech blogs and forums
 
