@@ -4,7 +4,7 @@
 
 ####  good problem solver and fullstack developer looking for opportunity work woek with challenging environment to gain and lean knowledge.  Would like to explore technological implementations to find solutions to a lot of problems. Aim to leave a mark on my work at every level of my career. my free time lways contributing reading tech blogs and forams
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" height="250" /></a>
 
 - 👨‍💻 All of my projects are available at https://github.com/sivagurubilli
 - 📫 How to reach me gurubillisiva22@gmail.com
@@ -15,12 +15,13 @@
 ### Languages and Tools:
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*l4xICbIIYlz1OTymWCoUTw.jpeg" 
                                            height="100" /></a>      <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" height="70" /></a>             <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" height="40" /></a>       <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" height="50" /></a>
-                                           <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height="80" /></a>
+                                           <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" height="80" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.techcret.com/images/resource/javascript-es6.png" height="80" /></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivagurubilli)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivagurubilli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
