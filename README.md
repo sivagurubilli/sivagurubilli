@@ -4,7 +4,7 @@
 
 ####  good problem solver and fullstack developer looking for opportunity work  with challenging environment to gain and learn knowledge.  Would like to explore technological implementations to find solutions to a lot of problems. Aim to leave a mark on my work at every level of my career. my free time always dedicated to reading tech blogs and forums
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" height="250" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" height="300" /></a>
 
 - 👨‍💻 All of my projects are available at https://github.com/sivagurubilli
 - 📫 How to reach me gurubillisiva22@gmail.com
