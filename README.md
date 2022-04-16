@@ -1,4 +1,4 @@
-# 👋 Hi, I’m sivagurubilli
+# 👋 Hi, I’m Siva gurubilli
 ### 👀 I’m interested in fullstack software development
 ### 🌱 I’m currently learning mern stack, next.js and kubernetes
 
