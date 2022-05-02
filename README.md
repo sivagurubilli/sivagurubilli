@@ -16,12 +16,16 @@
  ![](https://komarev.com/ghpvc/?username=sivagurubilli)
  
 ### Languages and Tools:
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*l4xICbIIYlz1OTymWCoUTw.jpeg" 
-                                           height="100" /></a>      <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" height="70" /></a>             <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" height="40" /></a>       <a href="URL_REDIRECT" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" height="50" /></a>
-                                           <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/430-4309307_react-js-transparent-logo-hd-png-download.png" height="120" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://frontendjournal.com/wp-content/uploads/2020/09/Javascript-ES6-788x443.jpg" height="80" /></a>
+
                                            
                                            
-                                           
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/59872807/89734383-7827e580-da79-11ea-9840-299bc8b32335.jpg">
+  </p>
+
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/59872807/89734655-0bade600-da7b-11ea-91e3-a38a9d86eb25.jpg">
+  </p>                             
                                           
 
 
